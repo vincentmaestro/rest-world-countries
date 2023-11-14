@@ -95,4 +95,8 @@
         width: 100%;
         padding-left: 4%;
     }
+
+    .country-list .country {
+        width: 70%;
+    }
 }
